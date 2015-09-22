@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Instant Meteor JavaScript Framework Starter",
+    "author": "Gabriel Manricks",
+    "publisher": "Packt Publishing",
+    "date": "April 2013",
+    "pages": "78",
+    "read": "false"
+  },
+  {
+    "name": "Creating a Website: The Missing Manual, 4th Edition",
+    "author": "Matthew MacDonald",
+    "publisher": "O'Reilly Media",
+    "date": "June 2015",
+    "pages": "622",
+    "read": "false"
+  },
+  {
+    "name": "JavaScript & jQuery: The Missing Manual, 3rd Edition",
+    "author": "David Sawyer McFarland",
+    "publisher": "O'Reilly Media",
+    "date": "September 2014",
+    "pages": "686",
+    "read": "false"
+  },
+  {
+    "name": "Meteor Cookbook",
+    "author": "Isaac Strack",
+    "publisher": "Packt Publishing",
+    "date": "May 2015",
+    "pages": "364",
+    "read": "false"
+  },
+  {
+    "name": "Mastering jQuery",
+    "author": "Alex Libby",
+    "publisher": "Packt Publishing",
+    "date": "May 2015",
+    "pages": "400",
+    "read": "true"
+  },
+  {
+    "name": "You Don't Know JS: Up & Going",
+    "author": "Kyle Simpson",
+    "publisher": "O'Reilly Media",
+    "date": "March 2015",
+    "pages": "88",
+    "read": "false"
+  },
+  {
+    "name": "Web Development with jQuery, 2nd Edition",
+    "author": "Richard York",
+    "publisher": "Wiley / Wrox",
+    "date": "March 2015",
+    "pages": "672",
+    "read": "false"
+  },
+  {
+    "name": "jQuery Plugin Development in 30 Minutes",
+    "author": "Robert Duchnik",
+    "publisher": "i30 Media / In 30 Minutes® Guides",
+    "date": "March 2014",
+    "pages": "102",
+    "read": "false"
+  }
+]
